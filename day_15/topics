@@ -1,1 +1,12 @@
-day1
+day14:
+Understanding of collaborative filtering
+Understanding of ALS(Alternating Least Square)Algorithm
+collaborative filteringusecase and scenario.
+Pyspark library understanding for ALS.
+Lab:
+ Create CF model
+ Predict result
+ Accuracy
+ and using model to verify the data.
+
+

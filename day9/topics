@@ -1,0 +1,10 @@
+day9:
+Introduction to linear regression model
+Linearregression modeling usecase and scenario.
+Pyspark library understanding for Linearregression.
+Best suitable case of LinearRegression modeling
+Lab:
+ Create LinearRegression model
+ Predict result
+ Accuracy
+ and using model to verify.

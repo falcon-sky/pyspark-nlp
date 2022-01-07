@@ -1,0 +1,10 @@
+day10:
+Introduction to Logistic regression model
+Logistic Regression modeling usecase and scenario.
+Pyspark library understanding for Logistic Regression.
+Best suitable case of Logistic Regression modeling
+Lab:
+ Create Logistic Regression model
+ Predict result
+ Accuracy
+ and using model to verify.

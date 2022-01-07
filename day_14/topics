@@ -1,1 +1,13 @@
-day1
+day14:
+Understanding of clustering
+Understanding of Kmean cluster
+Kmean cluster usecase and scenario.
+Pyspark library understanding for Kmean cluster.
+Best suitable case of Kmean cluster modeling
+Lab:
+ Create Kmean cluster model
+ Predict result
+ Accuracy
+ and using model to verify the data.
+
+

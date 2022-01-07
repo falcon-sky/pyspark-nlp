@@ -1,1 +1,10 @@
-day1
+day16:
+
+Understand Streaming of data
+Pyspsrk library for streaming api
+Kafka Streaming with pyspark
+Different streaming infrastructure.
+
+Lab:
+Pyspark streaming lab:(If free kinesys api is available)
+Other wise lab with kafka.

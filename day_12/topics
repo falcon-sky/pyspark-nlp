@@ -1,1 +1,14 @@
-day1
+day12:
+
+Understanding of gradient
+Understanding of gradient descent
+Understanding of gradient boosting
+gradient boosting modeling usecase and scenario.
+Pyspark library understanding for gradient boosting.
+Best suitable case of gradient boosting modeling
+Lab:
+ Create gradient boosting model
+ Predict result
+ Accuracy
+ and using model to verify the data.
+

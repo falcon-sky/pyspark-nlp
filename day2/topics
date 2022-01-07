@@ -1,4 +1,9 @@
 Day2:
-    Introduction to Spark
+
     Download and Setup pspark shell with Juypter
     Running the pyspark on collab
+    Development environment set up(Pycharm).
+    Understanding of Dataframe(Structure).
+    Dataframe conversion.
+    Lab on spark dataframe
+
